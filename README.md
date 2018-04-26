@@ -1,9 +1,8 @@
 # my-project
 
->We implemented the client's question-type function to fill in the recorded documents.
-The user only needs to answer the questions displayed on the client interface in turn,
-and the system will automatically generate the record document and store it in the database. Administrators can create/edit questionn
-
+>We implemented a staffs' documents (like instrument inspection records or disinfection records) record system for small clinics.
+Administrators are responsible for creating/editing questiones.
+Clinics' staffs can fill in the questionnaire and the answers will be stored or printed as a PDF doc. The user only needs to answer the questions displayed on the client interface in turn, and the system will automatically generate the record document and store it in the database. 
 #test
 ## Build Setup
 
