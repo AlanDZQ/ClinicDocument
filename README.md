@@ -1,6 +1,9 @@
 # my-project
 
 > A Vue.js project
+>We implemented the client's question-type function to fill in the recorded documents.
+The user only needs to answer the questions displayed on the client interface in turn,
+and the system will automatically generate the record document and store it in the database. Administrators can create/edit questionnaires, view questionnaires, and modify questionnaires through the management interface.
 
 #test
 ## Build Setup
