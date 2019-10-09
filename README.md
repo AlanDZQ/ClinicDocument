@@ -1,4 +1,4 @@
-# my-project
+# Clinic Document System
 
 >We implemented a staffs' documents (like instrument inspection records or disinfection records) record system for small clinics.
 Administrators are responsible for creating/editing questiones.
